@@ -1,0 +1,450 @@
+25/06/14 06:47:08 INFO  pop3server: POP3 Service uses default thread group.
+25/06/14 06:47:08 INFO  pop3server: POP3 Service is running on: RKALRA-LAP
+25/06/14 06:47:08 INFO  pop3server: POP3 Service handler hello name is: RKALRA-LAP
+25/06/14 06:47:08 INFO  pop3server: POP3 Service handler connection timeout is: 120000
+25/06/14 06:47:08 INFO  pop3server: POP3 Service connection backlog is: 5
+25/06/14 06:47:08 INFO  pop3server: POP3 Service will allow a maximum of 30 connections.
+25/06/14 06:47:08 INFO  pop3server: The idle timeout will be reset every 20480 bytes.
+25/06/14 06:47:08 INFO  pop3server: POP3 Service started plain:1110
+25/06/14 10:57:26 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 10:57:26 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 10:57:26 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 10:57:26 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 10:57:55 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 10:57:55 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 10:58:25 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 10:58:26 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 10:58:56 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 10:58:56 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 10:59:25 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 10:59:25 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:02:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:02:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:02:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:02:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:03:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:03:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:03:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:03:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:04:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:04:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:04:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:04:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:05:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:05:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:05:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:05:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:06:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:06:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:06:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:06:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:07:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:07:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:07:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:07:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:08:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:08:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:08:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:08:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:09:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:09:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:09:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:09:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:10:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:10:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:10:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:10:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:11:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:11:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:11:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:11:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:12:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:12:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:12:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:12:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:13:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:13:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:13:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:13:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:14:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:14:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:14:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:14:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:15:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:15:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:15:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:15:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:16:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:16:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:16:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:16:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:17:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:17:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:17:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:17:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:18:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:18:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:18:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:18:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:19:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:19:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:19:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:19:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:20:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:20:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:20:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:20:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:21:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:21:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:21:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:21:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:22:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:22:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:22:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:22:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:23:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:23:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:23:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:23:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:24:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:24:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:24:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:24:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:25:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:25:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:25:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:25:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:26:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:26:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:26:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:26:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:27:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:27:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:27:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:27:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:28:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:28:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:28:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:28:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:29:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:29:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:29:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:29:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:30:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:30:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:30:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:30:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:31:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:31:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:31:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:31:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:32:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:32:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:32:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:32:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:33:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:33:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:33:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:33:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:34:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:34:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:34:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:34:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:35:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:35:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:35:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:35:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:36:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:36:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:36:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:36:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:37:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:37:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:37:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:37:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:38:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:38:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:38:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:38:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:39:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:39:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:39:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:39:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:40:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:40:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:40:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:40:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:41:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:41:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:41:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:41:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:42:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:42:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:42:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:42:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:43:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:43:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:43:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:43:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:44:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:44:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:44:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:44:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:45:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:45:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:45:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:45:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:46:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:46:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:46:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:46:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:47:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:47:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:47:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:47:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:48:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:48:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:48:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:48:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:49:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:49:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:49:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:49:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:50:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:50:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:50:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:50:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:51:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:51:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:51:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:51:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:52:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:52:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:52:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:52:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:53:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:53:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:53:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:53:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:54:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:54:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:54:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:54:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:55:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:55:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:55:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:55:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:56:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:56:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:56:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:56:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:57:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:57:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:57:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:57:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:58:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:58:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:58:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:58:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:59:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:59:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 11:59:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 11:59:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:00:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:00:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:00:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:00:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:01:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:01:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:01:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:01:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:02:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:02:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:02:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:02:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:03:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:03:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:03:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:03:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:04:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:04:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:04:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:04:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:05:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:05:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:05:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:05:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:06:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:06:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:06:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:06:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:07:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:07:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:07:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:07:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:08:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:08:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:08:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:08:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:09:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:09:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:09:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:09:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:10:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:10:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:10:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:10:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:11:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:11:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:11:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:11:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:12:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:12:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:12:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:12:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:13:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:13:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:13:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:13:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:14:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:14:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:14:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:14:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:15:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:15:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:15:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:15:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:16:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:16:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:16:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:16:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:17:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:17:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:17:46 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:17:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:17:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:18:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:18:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:18:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:18:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:19:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:19:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:19:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:19:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:20:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:20:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:20:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:20:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:21:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:21:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:21:45 ERROR pop3server: POP3 Connection has idled out.
+25/06/14 12:21:45 ERROR pop3server: Exception during connection from soabpm-vm (127.0.0.1) : Socket operation on nonsocket: recv failed
+java.net.SocketException: Socket operation on nonsocket: recv failed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:152)
+	at java.net.SocketInputStream.read(SocketInputStream.java:122)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:235)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:254)
+	at org.apache.james.util.CRLFTerminatedReader.read(CRLFTerminatedReader.java:153)
+	at org.apache.james.util.CRLFTerminatedReader.readLine(CRLFTerminatedReader.java:113)
+	at org.apache.james.pop3server.POP3Handler.readCommandLine(POP3Handler.java:424)
+	at org.apache.james.pop3server.POP3Handler.handleConnection(POP3Handler.java:277)
+	at org.apache.james.util.connection.ServerConnection$ClientConnectionRunner.run(ServerConnection.java:432)
+	at org.apache.excalibur.thread.impl.ExecutableRunnable.execute(ExecutableRunnable.java:55)
+	at org.apache.excalibur.thread.impl.WorkerThread.run(WorkerThread.java:116)
+25/06/14 12:21:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:21:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:22:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:22:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:22:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:22:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:23:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:23:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:23:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:23:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:24:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:24:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:24:46 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:24:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:24:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:25:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:25:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:25:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:25:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:26:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:26:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:26:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:26:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:27:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:27:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:27:57 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:27:57 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:28:27 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 12:28:27 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 12:28:46 ERROR pop3server: POP3 Connection has idled out.
+25/06/14 12:28:46 ERROR pop3server: Exception during connection from soabpm-vm (127.0.0.1) : Socket Closed
+java.net.SocketException: Socket Closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:152)
+	at java.net.SocketInputStream.read(SocketInputStream.java:122)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:235)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:254)
+	at org.apache.james.util.CRLFTerminatedReader.read(CRLFTerminatedReader.java:153)
+	at org.apache.james.util.CRLFTerminatedReader.readLine(CRLFTerminatedReader.java:113)
+	at org.apache.james.pop3server.POP3Handler.readCommandLine(POP3Handler.java:424)
+	at org.apache.james.pop3server.POP3Handler.handleConnection(POP3Handler.java:277)
+	at org.apache.james.util.connection.ServerConnection$ClientConnectionRunner.run(ServerConnection.java:432)
+	at org.apache.excalibur.thread.impl.ExecutableRunnable.execute(ExecutableRunnable.java:55)
+	at org.apache.excalibur.thread.impl.WorkerThread.run(WorkerThread.java:116)
+25/06/14 13:21:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:21:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:21:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:21:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:21:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:21:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:22:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:22:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:22:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:22:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:23:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:23:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:23:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:23:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:24:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:24:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:24:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:24:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:25:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:25:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:25:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:25:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:26:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:26:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:26:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:26:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:27:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:27:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:27:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:27:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:28:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:28:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:28:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:28:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:29:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:29:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:29:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:29:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:30:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:30:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:30:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:30:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:31:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:31:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:31:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:31:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:32:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:32:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:32:42 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:32:42 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.
+25/06/14 13:33:12 INFO  pop3server: Connection from soabpm-vm (127.0.0.1) 
+25/06/14 13:33:12 INFO  pop3server: Connection for adminuser from soabpm-vm (127.0.0.1) closed.

@@ -1,0 +1,25 @@
+25/06/14 06:47:07 INFO  dnsserver: Autodiscovery is enabled - trying to discover your system's DNS Servers
+25/06/14 06:47:07 INFO  dnsserver: Adding autodiscovered server 130.35.249.52
+25/06/14 06:47:07 INFO  dnsserver: Adding autodiscovered server 130.35.249.41
+25/06/14 06:47:07 INFO  dnsserver: Adding autodiscovered server 192.168.1.254
+25/06/14 06:47:07 INFO  dnsserver: Adding autodiscovered server 192.135.82.132
+25/06/14 06:47:07 INFO  dnsserver: DNS Server is: 130.35.249.52
+25/06/14 06:47:07 INFO  dnsserver: DNS Server is: 130.35.249.41
+25/06/14 06:47:07 INFO  dnsserver: DNS Server is: 192.168.1.254
+25/06/14 06:47:07 INFO  dnsserver: DNS Server is: 192.135.82.132
+25/06/14 12:09:00 INFO  dnsserver: Couldn't resolve MX records for domain localhost.com.
+25/06/14 12:09:01 INFO  dnsserver: Couldn't find CNAME records for domain localhost.com.
+25/06/14 12:14:20 INFO  dnsserver: Couldn't resolve MX records for domain localhost.com.
+25/06/14 12:14:20 INFO  dnsserver: Couldn't find CNAME records for domain localhost.com.
+25/06/14 12:23:33 INFO  dnsserver: Couldn't resolve MX records for domain localhost.com.
+25/06/14 12:23:34 INFO  dnsserver: Couldn't find CNAME records for domain localhost.com.
+25/06/14 12:24:41 INFO  dnsserver: Couldn't resolve MX records for domain localhost.com.
+25/06/14 12:24:41 INFO  dnsserver: Couldn't find CNAME records for domain localhost.com.
+25/06/14 12:28:56 INFO  dnsserver: Couldn't resolve MX records for domain localhost.com.
+25/06/14 12:28:56 INFO  dnsserver: Couldn't find CNAME records for domain localhost.com.
+25/06/14 12:39:17 INFO  dnsserver: Couldn't resolve MX records for domain localhost.com.
+25/06/14 12:39:17 INFO  dnsserver: Couldn't find CNAME records for domain localhost.com.
+25/06/14 13:10:03 INFO  dnsserver: Couldn't resolve MX records for domain localhost.com.
+25/06/14 13:10:03 INFO  dnsserver: Couldn't find CNAME records for domain localhost.com.
+25/06/14 13:24:39 INFO  dnsserver: Couldn't resolve MX records for domain localhost.com.
+25/06/14 13:24:39 INFO  dnsserver: Couldn't find CNAME records for domain localhost.com.

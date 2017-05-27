@@ -1,0 +1,35 @@
+25/06/14 06:47:08 INFO  James.Mailet: RemoteAddrNotInNetwork: Authorized addresses: [127.0.0.1/255.255.255.255]
+25/06/14 06:47:08 INFO  James.Mailet: RemoteDelivery: maxRetries is larger than total number of attempts specified. Increasing last delayTime with 19 attempts 
+25/06/14 06:47:08 INFO  James.Mailet: RemoteDelivery: Delay of 21600000 msecs is now attempted: 20 times
+25/06/14 12:09:01 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1403723330947-0-to-localhost.com to host localhost.com at 74.125.224.72 for addresses [daniel@localhost.com]
+25/06/14 12:09:20 INFO  James.Mailet: RemoteDelivery: Could not connect to SMTP host: 74.125.224.72, port: 25
+25/06/14 12:09:20 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1403723330947-0-to-localhost.com: 
+25/06/14 12:09:20 INFO  James.Mailet: RemoteDelivery: Storing message Mail1403723330947-0-to-localhost.com into outgoing after 0 retries
+25/06/14 12:14:20 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1403723330947-0-to-localhost.com to host localhost.com at 74.125.224.72 for addresses [daniel@localhost.com]
+25/06/14 12:14:41 INFO  James.Mailet: RemoteDelivery: Could not connect to SMTP host: 74.125.224.72, port: 25
+25/06/14 12:14:41 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1403723330947-0-to-localhost.com: 
+25/06/14 12:14:41 INFO  James.Mailet: RemoteDelivery: Storing message Mail1403723330947-0-to-localhost.com into outgoing after 1 retries
+25/06/14 12:23:35 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1403724203319-1-to-localhost.com to host localhost.com at 74.125.224.72 for addresses [daniel@localhost.com]
+25/06/14 12:23:56 INFO  James.Mailet: RemoteDelivery: Could not connect to SMTP host: 74.125.224.72, port: 25
+25/06/14 12:23:56 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1403724203319-1-to-localhost.com: 
+25/06/14 12:23:56 INFO  James.Mailet: RemoteDelivery: Storing message Mail1403724203319-1-to-localhost.com into outgoing after 0 retries
+25/06/14 12:24:41 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1403723330947-0-to-localhost.com to host localhost.com at 74.125.224.72 for addresses [daniel@localhost.com]
+25/06/14 12:25:02 INFO  James.Mailet: RemoteDelivery: Could not connect to SMTP host: 74.125.224.72, port: 25
+25/06/14 12:25:02 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1403723330947-0-to-localhost.com: 
+25/06/14 12:25:02 INFO  James.Mailet: RemoteDelivery: Storing message Mail1403723330947-0-to-localhost.com into outgoing after 2 retries
+25/06/14 12:28:56 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1403724203319-1-to-localhost.com to host localhost.com at 74.125.224.72 for addresses [daniel@localhost.com]
+25/06/14 12:29:17 INFO  James.Mailet: RemoteDelivery: Could not connect to SMTP host: 74.125.224.72, port: 25
+25/06/14 12:29:17 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1403724203319-1-to-localhost.com: 
+25/06/14 12:29:17 INFO  James.Mailet: RemoteDelivery: Storing message Mail1403724203319-1-to-localhost.com into outgoing after 1 retries
+25/06/14 12:39:17 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1403724203319-1-to-localhost.com to host localhost.com at 74.125.224.72 for addresses [daniel@localhost.com]
+25/06/14 12:39:38 INFO  James.Mailet: RemoteDelivery: Could not connect to SMTP host: 74.125.224.72, port: 25
+25/06/14 12:39:38 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1403724203319-1-to-localhost.com: 
+25/06/14 12:39:38 INFO  James.Mailet: RemoteDelivery: Storing message Mail1403724203319-1-to-localhost.com into outgoing after 2 retries
+25/06/14 13:10:03 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1403723330947-0-to-localhost.com to host localhost.com at 74.125.224.72 for addresses [daniel@localhost.com]
+25/06/14 13:10:24 INFO  James.Mailet: RemoteDelivery: Could not connect to SMTP host: 74.125.224.72, port: 25
+25/06/14 13:10:24 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1403723330947-0-to-localhost.com: 
+25/06/14 13:10:24 INFO  James.Mailet: RemoteDelivery: Storing message Mail1403723330947-0-to-localhost.com into outgoing after 3 retries
+25/06/14 13:24:39 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1403724203319-1-to-localhost.com to host localhost.com at 74.125.224.72 for addresses [daniel@localhost.com]
+25/06/14 13:25:00 INFO  James.Mailet: RemoteDelivery: Could not connect to SMTP host: 74.125.224.72, port: 25
+25/06/14 13:25:00 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1403724203319-1-to-localhost.com: 
+25/06/14 13:25:00 INFO  James.Mailet: RemoteDelivery: Storing message Mail1403724203319-1-to-localhost.com into outgoing after 3 retries

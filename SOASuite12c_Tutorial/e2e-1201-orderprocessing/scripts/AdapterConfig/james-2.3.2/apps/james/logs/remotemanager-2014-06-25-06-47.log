@@ -1,0 +1,7 @@
+25/06/14 06:47:08 INFO  remotemanager: Remote Manager Service uses default thread group.
+25/06/14 06:47:08 INFO  remotemanager: Remote Manager Service is running on: RKALRA-LAP
+25/06/14 06:47:08 INFO  remotemanager: Remote Manager Service handler hello name is: RKALRA-LAP
+25/06/14 06:47:08 INFO  remotemanager: Remote Manager Service handler connection timeout is: 60000
+25/06/14 06:47:08 INFO  remotemanager: Remote Manager Service connection backlog is: 5
+25/06/14 06:47:08 INFO  remotemanager: Remote Manager Service will allow a maximum of 30 connections.
+25/06/14 06:47:08 INFO  remotemanager: Remote Manager Service started plain:4555
